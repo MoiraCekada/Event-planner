@@ -26,9 +26,9 @@ Prijavljeni korisnik može odabrati i izbrisati svoje postojeće događaje.
 Prijavljeni korisnik ima opciju odjave s računa nakon korištenja.
 
 **Dodatne funkcionalnosti**
-*1.Izlistavanje podataka o svim događajima (Read)*
-Prijavljeni korisnik ima pregled svih dostupnih događaja na svojoj nadzornoj ploči 
-*2.Promjena podataka o događajima pomoću web forme (Update)*
+1. *Izlistavanje podataka o svim događajima (Read)*
+Prijavljeni korisnik ima pregled svih dostupnih događaja na svojoj nadzornoj ploči
+2. *Promjena podataka o događajima pomoću web forme (Update)*
 Prijavljeni korisnik može odabrati i urediti svoje postojeće događaje.
 Otvara se web forma s postojećim podacima o događaju.
 Korisnik mijenja željene informacije (naziv, datum, lokacija, opis).
