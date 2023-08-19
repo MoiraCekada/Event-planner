@@ -17,7 +17,7 @@ app.config.update(dict(
         'create_db': True
     }
 ))
-# db
+
 
 db = Database()
 
