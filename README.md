@@ -1,7 +1,7 @@
 
 # Python Web Application
 
-This repository contains a Python web-based application with the following features: login, signup option, minimal design, and create your event functionality.
+This repository contains a Python web-based application with the following features: login, signup option, minimal design, and create your event functionalities.
 
 ## Features
 
