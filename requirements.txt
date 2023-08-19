@@ -1,5 +1,5 @@
 flask
 flask_login
 pony
-# Add other dependencies here if needed
+# Add other dependencies if needed
 gunicorn
