@@ -15,7 +15,7 @@ COPY . .
 
 # Expose the port on which your application will listen
 # (Update this port number if your application uses a different one)
-EXPOSE 8000
+EXPOSE 8080
 
 # Set an environment variable to define the SQLite database file path
 ENV DATABASE_FILE /app/my_database.db
