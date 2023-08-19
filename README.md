@@ -35,8 +35,8 @@ Korisnik mijenja željene informacije (naziv, datum, lokacija, opis).
 
 **Struktura aplikacije**
 
-⦁	API za događaje (Events API)
-⦁	API za organizatore (Organizers API)
+⦁	*API za događaje (Events API)*
+⦁	*API za organizatore (Organizers API)*
 Ovi API-ji omogućuju korisnicima (kroz API za događaje) i organizatorima (kroz API za organizatore) da izvršavaju specifične funkcionalnosti povezane s upravljanjem događajima i organizatorima. 
 
 **Pokretanje aplikacije lokalno**
