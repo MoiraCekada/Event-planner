@@ -6,7 +6,7 @@ Projekt iz kolegija Poslovni informacijski sustavi
 
 Web aplikaciju koja vam omogućuje jednostavnu organizaciju događaja i upravljanje svim aspektima vaših planova. S aplikacijom se može dodavati događaje, pregled svih događaja,update,delete.
 Funkcionalnosti web aplikacije
-Osnovne funkcionalnosti:
+Sve funkcionalnosti:
 1. *Registracija korisnika*
 Korisnik otvara stranicu za registraciju.
 Popunjava obrazac s potrebnim informacijama (ime,email,broj mobitela,lozinka).
@@ -24,14 +24,9 @@ Podaci se pohranjuju
 Prijavljeni korisnik može odabrati i izbrisati svoje postojeće događaje.
 5. *Odjava korisnika*
 Prijavljeni korisnik ima opciju odjave s računa nakon korištenja.
-
-**Dodatne funkcionalnosti**
-1. *Izlistavanje podataka o svim događajima (Read)*
+6. *Izlistavanje podataka o svim događajima (Read)*
 Prijavljeni korisnik ima pregled svih dostupnih događaja na svojoj nadzornoj ploči
-2. *Promjena podataka o događajima pomoću web forme (Update)*
-Prijavljeni korisnik može odabrati i urediti svoje postojeće događaje.
-Otvara se web forma s postojećim podacima o događaju.
-Korisnik mijenja željene informacije (naziv, datum, lokacija, opis).
+
 
 **Struktura aplikacije**
 
