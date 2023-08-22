@@ -5,7 +5,7 @@ Projekt iz kolegija Poslovni informacijski sustavi
 **Opis projekta**
 
 Web aplikaciju koja vam omogućuje jednostavnu organizaciju događaja i upravljanje svim aspektima vaših planova. S aplikacijom se može dodavati događaje, pregled svih događaja,update,delete.
-Funkcionalnosti web aplikacije
+
 Sve funkcionalnosti:
 1. *Registracija korisnika*
 Korisnik otvara stranicu za registraciju.
